@@ -50,7 +50,7 @@ npm run serve
 - `Auth.vue`: Компонент аутентифікації Google.
 - інші компоненти...
 
-### Vuex Store
+### Pinia Store
 
 - `user.js`: Модуль Vuex для керування станом користувача та взаємодії з Firebase.
 - інші модулі...
