@@ -8,7 +8,7 @@
 
 1. Клонуйте репозиторій на свій комп'ютер:
 
-git clone https://github.com/your-username/chat-app.git
+git clone https://github.com/vladislavsitnikov/whatsapp-clone.git
 
 2. Встановіть залежності, використовуючи npm:
 
